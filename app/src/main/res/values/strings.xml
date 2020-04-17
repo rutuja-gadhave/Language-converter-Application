@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Language Converter</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="hint">Tap on mic to start</string>
+</resources>
